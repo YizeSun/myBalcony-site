@@ -277,6 +277,18 @@ function PrivacyDE(): LegalSection[] {
             Fehlersuche nötig ist und Sie es ausdrücklich möchten.
           </p>
           <p>
+            Das Supportpostfach wird über Gmail von Google Ireland Limited
+            bereitgestellt. Google verarbeitet dabei E-Mail-Inhalte und
+            technische Metadaten nach seiner{" "}
+            <a href="https://policies.google.com/privacy?hl=de">
+              Datenschutzerklärung
+            </a>
+            . Rechtsgrundlage für unsere Bearbeitung ist je nach Anfrage die
+            Durchführung vorvertraglicher oder vertraglicher Maßnahmen
+            (Art. 6 Abs. 1 lit. b DSGVO) oder unser berechtigtes Interesse an
+            einem verlässlichen Support (Art. 6 Abs. 1 lit. f DSGVO).
+          </p>
+          <p>
             Diese Website setzt keine Analyse- oder Werbe-Cookies ein und
             enthält keine Tracking-Pixel. Sie wird über GitHub Pages von
             GitHub, Inc. bereitgestellt. GitHub kann technisch erforderliche
@@ -481,6 +493,18 @@ function PrivacyEN(): LegalSection[] {
             only if it is needed for troubleshooting and you choose to do so.
           </p>
           <p>
+            The support mailbox is provided through Gmail by Google Ireland
+            Limited. Google processes email content and technical metadata
+            under its{" "}
+            <a href="https://policies.google.com/privacy?hl=en">
+              privacy policy
+            </a>
+            . Depending on the request, our legal basis is taking steps at
+            your request or performing a contract (Article 6(1)(b) GDPR), or
+            our legitimate interest in providing reliable support (Article
+            6(1)(f) GDPR).
+          </p>
+          <p>
             This website uses no analytics or advertising cookies and has no
             tracking pixels. It is hosted with GitHub Pages by GitHub, Inc.
             GitHub may process technically necessary server and security logs,
@@ -639,6 +663,15 @@ function PrivacyZH(): LegalSection[] {
       content: (
         <>
           <p>如果你向我们发送邮件，我们会处理邮箱地址、邮件内容和你自愿附加的文件，以便答复。只有在排查问题确实需要且你愿意时，才发送原始扫描数据。</p>
+          <p>
+            支持邮箱由 Google Ireland Limited 的 Gmail
+            服务提供。Google 会依据其
+            <a href="https://policies.google.com/privacy?hl=zh-CN">
+              隐私政策
+            </a>
+            处理邮件内容和技术元数据。根据请求性质，我们处理这些信息的依据是应你的请求采取订立或履行合同所需的措施（GDPR
+            第 6(1)(b) 条），或提供可靠支持的合法利益（GDPR 第 6(1)(f) 条）。
+          </p>
           <p>
             本网站不使用分析或广告 Cookie，也没有追踪像素。网站由 GitHub, Inc.
             的 GitHub Pages 托管。GitHub 可能依据其
